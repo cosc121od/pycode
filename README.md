@@ -1,6 +1,8 @@
 ABOUT PYCODE
 ============
 
+NOTE: pycode is defunct. It has been replaced by CodeRunner (see https://github.com/trampgeek/CodeRunner) which offers far more functions and features. 
+
 @version 26 May 2012
 @author Richard Lobb, University of Canterbury, New Zealand.
 
